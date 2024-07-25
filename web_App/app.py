@@ -131,6 +131,7 @@ if user_menu == 'Country-wise Analysis':
 
 
 
+user_menu = 'Athlete wise Analysis'
 if user_menu == 'Athlete wise Analysis':
     athlete_df = df.drop_duplicates(subset=['Name', 'region'])
 

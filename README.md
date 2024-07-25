@@ -10,8 +10,8 @@ LINK - https://summer-olympic-insights.streamlit.app/
 - Filtering and searching functionality
 - Detailed statistics and insights about Olympic events, athletes, and countries
 
-![1](web_App/Screenshot (8).png)
-![2](web_App/Screenshot (9).png)
+[1](web_App/Screenshot (8).png)
+[2](web_App/Screenshot (9).png)
 
 ## Create a Virtual Environment
 

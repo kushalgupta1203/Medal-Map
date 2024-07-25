@@ -10,11 +10,20 @@ Summer Olympic Insights is a Streamlit application that provides an interactive 
 
 ## Installation
 
+
+## Create a Virtual Environment
+
+To create a virtual environment, run:
+
+```bash
+python -m venv venv
+
+
 To run this application locally, follow these steps:
 
 1. **Clone the repository:**
 
-   
+
 bash
    git clone https://github.com/yourusername/summer-olympic-insights.git
    cd summer-olympic-insights

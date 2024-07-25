@@ -5,6 +5,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.figure_factory as ff
+import scipy
 
 # Load data
 df = pd.read_csv('web_App/athlete_events.csv')

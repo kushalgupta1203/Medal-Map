@@ -9,6 +9,7 @@ import plotly.figure_factory as ff
 # Load data
 df = pd.read_csv('web_App/athlete_events.csv')
 region_df = pd.read_csv('web_App/noc_regions.csv')
+
 # Preprocess data
 df = preprocessor.preprocess(df, region_df)
 

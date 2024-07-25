@@ -10,10 +10,6 @@ LINK - https://summer-olympic-insights.streamlit.app/
 - Filtering and searching functionality
 - Detailed statistics and insights about Olympic events, athletes, and countries
 
-![Description of Image](https://github.com/kushalgupta1203/summer-olympic-insights/blob/main/web_App/Screenshot%20(8).png)
-![Description of Image](https://github.com/kushalgupta1203/summer-olympic-insights/blob/main/web_App/Screenshot%20(9).png)
-
-
 ## Create a Virtual Environment
 
 To create a virtual environment, run:
@@ -66,6 +62,10 @@ Copy code
 streamlit run app.py
 This will start a local server. Open your web browser and go to http://localhost:8501 to view the app.
 ```
+
+![Description of Image](https://github.com/kushalgupta1203/summer-olympic-insights/blob/main/web_App/1.png)
+![Description of Image](https://github.com/kushalgupta1203/summer-olympic-insights/blob/main/web_App/2.png)
+
 ## Usage
 Once the app is running, you can interact with the various features:
 

@@ -1,6 +1,6 @@
-# Summer Olympic Insights
+# Medal-Map
 
-Summer Olympic Insights is a Streamlit application that provides an interactive and visual analysis of the Summer Olympics data. The app allows users to explore various statistics and insights about Olympic events, athletes, and countries.
+Medal-Map is a Streamlit application for Summer Olympics insights from the year 1896 to 2016, that provides an interactive and visual analysis of the Summer Olympics data. The app allows users to explore various statistics and insights about Olympic events, athletes, and countries.
 
 ## Live Demo
 

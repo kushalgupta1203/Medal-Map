@@ -21,43 +21,43 @@ To create a virtual environment, run:
 python -m venv venv
 ```
 
-##To run this application locally, follow these steps:
+## To run this application locally, follow these steps:
 
-###1. **Clone the repository:**
+### 1. **Clone the repository:**
 
 
 ```bash
    git clone https://github.com/yourusername/summer-olympic-insights.git
    cd summer-olympic-insights
 ```
-##2.Create a virtual environment:
+## 2.Create a virtual environment:
 
 
 ```bash
 Copy code
 python -m venv venv
 ```
-##Activate the virtual environment:
+## Activate the virtual environment:
 
-###On Windows:
+### On Windows:
 
 ```bash
 Copy code
 .\venv\Scripts\activate
 ```
-###On macOS and Linux:
+### On macOS and Linux:
 
 ```bash
 Copy code
 source venv/bin/activate
 ```
-##Install the required packages:
+## Install the required packages:
 
 ```bash
 Copy code
 pip install -r requirements.txt
 ```
-##Running the App
+## Running the App
 After installing the necessary packages, you can run the Streamlit app with the following command:
 
 ```bash
@@ -65,7 +65,7 @@ Copy code
 streamlit run app.py
 This will start a local server. Open your web browser and go to http://localhost:8501 to view the app.
 ```
-##Usage
+## Usage
 Once the app is running, you can interact with the various features:
 
 - Filter Data: Use the sidebar to filter the Olympic data based on year, country, sport, and more.

@@ -4,7 +4,7 @@ Medal-Map is a Streamlit application for Summer Olympics insights from the year 
 
 ## Live Demo
 
-[Live Demo](https://summer-olympic-insights.streamlit.app/)
+[Live Demo](https://medal-map.streamlit.app/)
 
 
 ## Features

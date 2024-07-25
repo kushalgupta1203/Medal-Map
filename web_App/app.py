@@ -99,7 +99,7 @@ if user_menu == 'Overall Analysis':
     sport_list.sort()
     sport_list.insert(0, 'Overall')
 
-    selected_sport = st.selectbox('Select a Sport', sport_list)
+    selected_sport = st.selectbox('Select a Sport', sport_list, key='select_sport')
     x = helper.most_successful_till_date(df, selected_sport)
     st.table(x)
 

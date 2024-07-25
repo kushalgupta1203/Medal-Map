@@ -2,7 +2,10 @@
 
 Summer Olympic Insights is a Streamlit application that provides an interactive and visual analysis of the Summer Olympics data. The app allows users to explore various statistics and insights about Olympic events, athletes, and countries.
 
-LINK - https://summer-olympic-insights.streamlit.app/
+## Live Demo
+
+[Live Demo](https://summer-olympic-insights.streamlit.app/)
+
 
 ## Features
 

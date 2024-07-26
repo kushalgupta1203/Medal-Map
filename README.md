@@ -34,7 +34,6 @@ python -m venv venv
 
 
 ```bash
-Copy code
 python -m venv venv
 ```
 ## 3. Activate the virtual environment:
@@ -42,26 +41,22 @@ python -m venv venv
 ### On Windows:
 
 ```bash
-Copy code
 .\venv\Scripts\activate
 ```
 ### On macOS and Linux:
 
 ```bash
-Copy code
 source venv/bin/activate
 ```
 ## 4. Install the required packages:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 ## 5. Running the App
 After installing the necessary packages, you can run the Streamlit app with the following command:
 
 ```bash
-Copy code
 streamlit run app.py
 This will start a local server. Open your web browser and go to http://localhost:8501 to view the app.
 ```
